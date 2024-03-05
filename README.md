@@ -1,2 +1,2 @@
-# netherite-modtoggle
+# Netherite ModToggle
 It makes managing Minecraft mods easier.
